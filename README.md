@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **card recognition text**
 
-- 📫 How to reach me **crod**
+- 📫 How to reach me **crod3485@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
