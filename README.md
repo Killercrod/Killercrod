@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cesar</h1>
 <h3 align="center">A passionate backend developer from Mexico</h3>
 
-- 🔭 I’m currently working on **card recognition text**
-
-- 📫 How to reach me **crod3485@gmail.com**
+-  How to reach me **crod3485@gmail.com**
 
 - All of my projects **https://github.com/Killercrod/Killercrod/blob/main/Portfolio**
 
