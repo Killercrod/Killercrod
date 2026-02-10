@@ -3,7 +3,11 @@
 
 -  How to reach me **crod3485@gmail.com**
 
-- All of my projects **https://github.com/Killercrod/Killercrod/blob/main/Portfolio**
+- All of my projects:
+- Backend:**
+- FrontEnd
+- DataBase
+- Fullstack
 
 
 
