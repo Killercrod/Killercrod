@@ -8,6 +8,8 @@
 - FrontEnd
 - DataBase
 - Fullstack
+- Learn X thing with me
+  
 
 
 
