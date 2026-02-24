@@ -4,7 +4,7 @@
 -  How to reach me **crod3485@gmail.com**
 
 - All of my projects:
-- Backend:**
+- Backend:
 - FrontEnd
 - DataBase
 - Fullstack
