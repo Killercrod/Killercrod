@@ -1,5 +1,5 @@
 In this markdown were going to talk about the basics to html and how to do basic things of frontend to make your first webpage
-At first we need to understand in wich situations were going to use html, we use html when we want to make the structure of our webpage and we always going to use it in this 
+At first we need to understand in wich situations were going to use html, we use html when we want to make the structure of our webpage and we will do it beacuse is good practice to modulize everything that we can
 | Category | Tag | Description | Example |
 |----------|-----|-------------|---------|
 | **Headings** | `<h1>` to `<h6>` | Headings (from most to least important) | `<h1>Main Title</h1>` |
@@ -45,3 +45,33 @@ At first we need to understand in wich situations were going to use html, we use
 | | `<link>` | Links external resources | `<link rel="stylesheet" href="style.css">` |
 | | `<script>` | JavaScript code | `<script src="app.js"></script>` |
 | | `<style>` | Internal CSS | `<style>body {color: red;}</style>` |
+This is the basic structure of html its good to know why its ordered like that
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Proyecto</title>
+    <!-- Enlace al archivo CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a mi proyecto</h1>
+    </header>
+    <main>
+        <p>Este es el contenido principal.</p>
+    </main>
+    <footer>
+        <p>&copy; 2025 Mi Proyecto</p>
+    </footer>
+    <!-- Enlace al archivo JavaScript (justo antes de cerrar body) -->
+    <script src="js/script.js"></script>
+</body>
+</html>
+```
+I will explain why its ordered like this and why is important to know this
+
+Were going to make some basic excercises to understand better how to make some basic stuff
