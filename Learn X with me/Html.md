@@ -73,5 +73,66 @@ This is the basic structure of html its good to know why its ordered like that
 </html>
 ```
 I will explain why its ordered like this and why is important to know this
+<!DOCTYPE html>
+What is it? It's a declaration that tells the browser the document is written in HTML5 (the latest version of HTML).
+Why is it necessary? Without it, the browser might interpret the page in "quirks mode" (compatibility mode with older versions), which can cause display and behavioral errors. It is the first required line in every HTML5 document.
 
+<html lang="es">
+Opening tag that wraps all the content of the page.
+Attribute lang="es": indicates that the main language of the document is Spanish. This helps search engines, browsers, and screen readers interpret the content correctly (e.g., for pronunciation or suggesting translations).
+Why is it necessary? It is the root of the document; without it, the browser wouldn't know it's reading HTML.
+
+<head> ... </head>
+This is the document's header; it contains metadata and information that is not directly displayed on the page (except for the title). It's like the "brain" of the page.
+Everything inside <head> is mainly for the browser, search engines, and other services.
+
+a. <meta charset="UTF-8">
+
+Defines the character encoding for the document. UTF-8 includes practically all symbols and characters from all languages (ñ, accents, emojis, etc.).
+Why is it necessary? Without this line, special characters might display incorrectly (e.g., "á" would appear as "Ã¡"). It is essential for correct text rendering.
+b. <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+Controls how the page is displayed on mobile devices. width=device-width sets the page width to the device's screen width, and initial-scale=1.0 sets the initial zoom level.
+Why is it necessary? Without this tag, websites appear "zoomed out" on mobile (like a scaled-down desktop version). It's essential for responsive design.
+c. <title>Mi Proyecto</title>
+
+Defines the page title that appears in the browser tab and in search results.
+Why is it necessary? It is required in HTML and improves user experience and SEO (search engine positioning).
+d. <link rel="stylesheet" href="css/style.css">
+
+Links an external CSS stylesheet.
+
+rel="stylesheet" indicates it's a stylesheet.
+href="css/style.css" is the path to the CSS file (inside the css folder).
+Why is it necessary? It separates content (HTML) from presentation (CSS). It makes maintenance easier and allows styles to be reused.
+<body> ... </body>
+Contains all the visible content of the page: text, images, buttons, etc.
+It is the body of the document.
+
+a. <header> ... </header>
+
+A semantic tag representing the header of the page or a section. It usually includes the logo, main title, navigation menu, etc.
+Why use it? It helps with accessibility and SEO, as screen readers and search engines can easily identify the structure.
+<h1>Bienvenido a mi proyecto</h1>
+
+This is the level 1 heading, the most important one. There should be only one per page, and it describes the main topic.
+Why is it necessary? It defines the content hierarchy and is key for SEO.
+b. <main> ... </main>
+
+A semantic tag that wraps the main and unique content of the page. It should not be repeated (e.g., it should not include sidebars or repeated menus).
+Why use it? It improves accessibility (screen readers can jump directly to the main content) and semantic structure.
+<p>Este es el contenido principal.</p>
+
+A paragraph tag. It groups text into a block.
+Why is it necessary? It defines text paragraphs, making the content readable and styleable.
+c. <footer> ... </footer>
+
+A page footer, typically containing copyright information, legal links, contact details, etc.
+Why use it? For semantics and accessibility.
+<p>&copy; 2025 Mi Proyecto</p>
+
+Displays the copyright symbol © (the &copy; entity) and the year. HTML entities prevent issues with special characters.
+<script src="js/script.js"></script>
+Links an external JavaScript file just before closing </body>.
+Why is it placed here and not in the <head>? Because scripts block HTML loading until they are downloaded and executed. By placing it at the end, we ensure the HTML content loads first, improving perceived page speed. Additionally, the script can then manipulate DOM elements that already exist.
 Were going to make some basic excercises to understand better how to make some basic stuff
