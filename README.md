@@ -34,9 +34,10 @@ REST API that turns images and multi-page PDFs into lightweight grayscale WebP f
 | [**Centum Astra**](https://github.com/WeWolfDev/Centum-Astra) | Prep platform for Mexico's EXANI-II exam. I built role-based auth (admin, teacher, student), RLS policies, staging/production environments and RLS tests. | React 19 · Vite · Tailwind · Vitest · Supabase |
 | [**Limlimclap**](https://github.com/Killercrod/Limlimclap) | Real-time drag-and-drop classroom activities: QR rooms, live ranking, timer and reconnection. | Node.js · Express · Socket.IO |
 | [**Software Design**](https://github.com/Killercrod/SoftwareDesign) | Academic and sales management system. I led analysis and architecture: 12 ADRs, ER model, requirements and UML. | Docs · ADR · UML |
-| [**CH'ATOJ**](https://github.com/WeWolfDev/Chatoj_Ww) | 2D action game set in a Maya-inspired jungle, built by a team of 5 for a contest. | Godot |
+| [**CH'ATOJ**](https://github.com/WeWolfDev/Chatoj_Ww) | 🥇 **1st place, CONCEI Maya Video Game Contest 2026.** 2D action game set in a Maya-inspired jungle, built by a team of 5. | Godot |
 | [**Sommelier de Reactivos**](https://github.com/Killercrod/FIQ-PRESENTACION) | Educational chemistry mixing game. | HTML · CSS · JavaScript |
 
+🥇 **CH'ATOJ** — 1st place, CONCEI Maya Video Game Contest 2026.<br>
 🏆 **Silvalaria** — ALGOR-ÉTICA LAB Hackathon (Nov 2026): scores urban zones in Mérida from 0 to 100 using public INEGI data and environmental red flags.
 
 ## 🛠️ Tech stack
