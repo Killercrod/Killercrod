@@ -1,18 +1,58 @@
-<h1 align="center">Hi 👋, I'm Cesar</h1>
-<h3 align="center">A passionate backend developer from Mexico</h3>
+<h1 align="center">Hi, I'm Cesar Rodríguez 👋</h1>
+<h3 align="center">Full Stack Developer · Software Engineering student at UADY · Mérida, México</h3>
 
--  How to reach me **crod3485@gmail.com**
+<p align="center">
+  <a href="https://www.linkedin.com/in/cesar-augusto-rodriguez-te-95a2722a7"><img src="https://img.shields.io/badge/LinkedIn-Cesar%20Rodríguez-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:crod3485@gmail.com"><img src="https://img.shields.io/badge/Email-crod3485%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Open%20to-internships%20%26%20junior%20roles-2ea44f?style=flat" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Languages-Español%20·%20English-0A66C2?style=flat" alt="Languages"/>
+</p>
 
-- All of my projects:
-- Backend:
-- FrontEnd
-- DataBase
-- Fullstack
-- Learn X thing with me
-  
+I build web and mobile apps end to end, from the database and its security rules to the screens people use. My largest project is a production system for **CANACO SERVYTUR Mérida** that handled **207 businesses, 303 branches and 899 entries** in its 2026 edition.
 
+## ⭐ Featured work
 
+### Ven al Centro y Gana · CANACO SERVYTUR Mérida
+`Flutter` `FlutterFlow` `Supabase` `PostgreSQL` `Firebase Hosting`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+Four web apps (business registration, participant registration, trivia and an admin dashboard) for a city-wide shopping campaign.
+- Cut the admin dashboard load time from **5–10 s to ~200 ms** (25–50× faster) by removing N+1 queries: from 100+ queries per load to 2.
+- Added roles, Row Level Security policies and a security review in Supabase before launch.
+- Built a configurable prize draw (150 winners) and Meta Pixel conversion tracking.
 
+*Client project · source code is private, available on request.*
+
+### Image Optimizer API · CANACO SERVYTUR Mérida
+`Python` `Pillow` `Docker` `Supabase Storage`
+
+REST API that turns images and multi-page PDFs into lightweight grayscale WebP files and uploads them to Supabase Storage. *Source code is private.*
+
+## 🚀 Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Centum Astra**](https://github.com/WeWolfDev/Centum-Astra) | Prep platform for Mexico's EXANI-II exam. I built role-based auth (admin, teacher, student), RLS policies, staging/production environments and RLS tests. | React 19 · Vite · Tailwind · Vitest · Supabase |
+| [**Limlimclap**](https://github.com/Killercrod/Limlimclap) | Real-time drag-and-drop classroom activities: QR rooms, live ranking, timer and reconnection. | Node.js · Express · Socket.IO |
+| [**Software Design**](https://github.com/Killercrod/SoftwareDesign) | Academic and sales management system. I led analysis and architecture: 12 ADRs, ER model, requirements and UML. | Docs · ADR · UML |
+| [**CH'ATOJ**](https://github.com/WeWolfDev/Chatoj_Ww) | 2D action game set in a Maya-inspired jungle, built by a team of 5 for a contest. | Godot |
+| [**Sommelier de Reactivos**](https://github.com/Killercrod/FIQ-PRESENTACION) | Educational chemistry mixing game. | HTML · CSS · JavaScript |
+
+🏆 **Silvalaria** — ALGOR-ÉTICA LAB Hackathon (Nov 2026): scores urban zones in Mérida from 0 to 100 using public INEGI data and environmental red flags.
+
+## 🛠️ Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,nodejs,express,python,supabase,postgres,firebase,docker,tailwind,vite,git,github,java,godot&perline=17" alt="Tech stack"/>
+</p>
+
+- **Backend & data:** Supabase (PostgreSQL, RLS, Auth, Edge Functions, Storage), Node.js / Express, Socket.IO, Python
+- **Frontend & mobile:** Flutter / FlutterFlow, React, Tailwind
+- **Quality & design:** Vitest, SonarCloud, ADRs, UML, ER modeling, Git / GitHub pull requests
+
+## 📚 Learn X with me
+
+Notes I write while learning: [Python](Learn%20X%20with%20me/Python.md) · [JavaScript](Learn%20X%20with%20me/JavaScript.md) · [Java](Learn%20X%20with%20me/Java.md) · [HTML](Learn%20X%20with%20me/Html.md) · [CSS](Learn%20X%20with%20me/CSS.md) · [Crystal](Learn%20X%20with%20me/Crystal.md)
+
+---
+
+<p align="center"><i>Looking for internships and junior software roles · Let's talk: <a href="mailto:crod3485@gmail.com">crod3485@gmail.com</a></i></p>
